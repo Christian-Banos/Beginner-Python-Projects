@@ -13,3 +13,8 @@ Creating PDFs with Platypus libraries, page sizes, and styles
 ## 4. Create a payment receipts  
 I explain how to create payment receipts with Python. We use the Reportlab library to generate a simple payment receipt. With a few code modifications, you can customize the receipt to your needs. By automating the payment receipt generation process, you can save time and ensure accurate records.  
 Table of Contents  
+
+## 5. Mini Chatbot  
+With a simple bit of code, I created a mini chatbot. The idea is to ask if we have anything in stock.  
+
+## 6. 
