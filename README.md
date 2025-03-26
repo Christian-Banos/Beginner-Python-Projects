@@ -17,4 +17,5 @@ Table of Contents
 ## 5. Mini Chatbot  
 With a simple bit of code, I created a mini chatbot. The idea is to ask if we have anything in stock.  
 
-## 6. 
+## 6. Check Leap Year using Python  
+I explain how to check if a year is a leap year using Python. This is a great project to help you build on the fundamentals like conditionals and functions.
