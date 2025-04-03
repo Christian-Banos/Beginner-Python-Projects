@@ -20,3 +20,5 @@ With a simple bit of code, I created a mini chatbot. The idea is to ask if we ha
 ## 6. Check Leap Year using Python  
 I explain how to check if a year is a leap year using Python. This is a great project to help you build on the fundamentals like conditionals and functions.  
 
+## 7. Ranking olympic medals  
+With this exercise, we attempt to obtain the ranking of Olympic medals using web scraping.  
