@@ -22,3 +22,7 @@ I explain how to check if a year is a leap year using Python. This is a great pr
 
 ## 7. Ranking olympic medals  
 With this exercise, we attempt to obtain the ranking of Olympic medals using web scraping.  
+
+## 8. Body BMI  
+calculate body BMI  
+
