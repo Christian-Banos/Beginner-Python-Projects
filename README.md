@@ -6,8 +6,3 @@ ou will work with Python's random module, build functions, work with while loops
 
 ## 2. Rock, paper, scissors Python Project  
 you will work with random.choice(), if statements, and getting user input. This is a great project to help you build on the fundamentals like conditionals and functions.
-
-## 3. Lista los primeros 151 pokemon utilizando la poke api  
-Using pokeAPI we need to get the first 151 pokemons  
-
-## 4. 
