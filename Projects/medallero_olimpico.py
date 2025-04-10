@@ -11,7 +11,7 @@ import pandas as pd
 url = "https://elpais.com/deportes/resultados/juegos-olimpicos/medallero/"
 
 try:
-    page = requests.get(url)
+    page = requests.get(url, timeout=5)
     page.raise_for_status()  # Esto verificará si hay errores HTTP
 except requests.exceptions.RequestException as e:
     print('Error al abrir la pagina', {e})
@@ -46,3 +46,22 @@ for fila in content.find_all('tr'):
         except ValueError:
             continue # Si no podemos convertir a número, saltamos la fila
 print('\n'.join(tablero))
+
+# Crear DataFrame con los top 5 países
+df = pd.DataFrame({
+    'País': [fila.split(' | ')[0] for fila in tablero[1:6]],
+    'Medallas': [int(fila.split(' | ')[-1]) for fila in tablero[1:6]]
+})
+print("\nTop 5 países en formato tabla:")
+print(df)
+
+# Convertir datos a arrays para visualización
+paises = np.array([fila.split(' | ')[0] for fila in tablero[1:6]])  # Top 5 países
+medallas = np.array([int(fila.split(' | ')[-1]) for fila in tablero[1:6]])  # Sus medallas
+
+# Crear gráfica de barras
+plt.figure(figsize=(10, 6))
+plt.bar(paises, medallas)
+plt.title('Top 5 Países por Medallas Olímpicas')
+plt.xticks(rotation=45)
+plt.show()
