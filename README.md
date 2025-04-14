@@ -44,3 +44,14 @@ calculate body BMI
  * 3. Simulación de eventos.
  * 4. Creación de informes.
  * 5. Salir del programa.
+
+## 10. Cajero automático  
+Crea una clase Cajero que simule un cajero automático. Debe tener los siguientes métodos:
+	•	__init__(self, saldo_inicial)
+	•	depositar(self, cantidad)
+	•	retirar(self, cantidad)
+	•	mostrar_saldo(self)
+
+Extra: Agrega una protección para no permitir retirar más de lo que hay.  
+
+## 11
