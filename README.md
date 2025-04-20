@@ -54,4 +54,10 @@ Crea una clase Cajero que simule un cajero automático. Debe tener los siguiente
 
 Extra: Agrega una protección para no permitir retirar más de lo que hay.  
 
-## 11
+## 11. 🔹 Ejercicio 2: Biblioteca  
+
+Crea una clase Libro con atributos como titulo, autor, y disponible. Luego, crea una clase Biblioteca que contenga una lista de libros y tenga métodos para:  
+	•	Agregar libros
+	•	Buscar libros por título
+	•	Prestar un libro
+	•	Devolver un libro
