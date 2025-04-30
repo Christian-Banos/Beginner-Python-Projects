@@ -1,10 +1,13 @@
-import pandas as pd
+import tkinter as tk
 
-student_data = {
-    'studenID' : [101, 102, 103, 104],
-    'name': ['chirs', 'alice', 'carlos', 'roman'],
-    'age': [20, 21, 22, 19],
-}
+ventana = tk.Tk()
+ventana.title("Hola Mundo")
+ventana.geometry("300x200")
 
-student_df = pd.DataFrame(student_data)
+etiqueta = tk.Label(ventana, text="¡Hola desde tkinter!")
+etiqueta.pack()
 
+boton = tk.Button(ventana, text="Cerrar", command=ventana.quit)
+boton.pack()
+
+ventana.mainloop()
