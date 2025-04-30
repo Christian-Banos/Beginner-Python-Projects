@@ -73,3 +73,10 @@ Métodos
 - sólo se puede acelerar o desacelerar si el auto se encuentra prendido
 - sólo se puede apagar el auto si la velocidad es 0
 - la velocidad mínima es 0  
+
+## 12 Biblioteca  
+Crea una clase Libro con atributos como titulo, autor, y disponible. Luego, crea una clase Biblioteca que contenga una lista de libros y tenga métodos para:  
+	•	Agregar libros
+	•	Buscar libros por título
+	•	Prestar un libro
+	•	Devolver un libro
