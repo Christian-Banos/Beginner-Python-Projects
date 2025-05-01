@@ -76,7 +76,35 @@ Métodos
 
 ## 12 Biblioteca  
 Crea una clase Libro con atributos como titulo, autor, y disponible. Luego, crea una clase Biblioteca que contenga una lista de libros y tenga métodos para:  
-	•	Agregar libros
-	•	Buscar libros por título
-	•	Prestar un libro
-	•	Devolver un libro
+- Agregar libros
+- Buscar libros por título
+- Prestar un libro
+- Devolver un libro  
+
+## 13 Televisor  
+### Propiedades  
+
+- encendido (booleano), inicializa en false
+- canal (número), inicializa en 0
+- canales (número)
+- volumen (número), inicializa en 0
+- marca (string)
+- Constructor  
+
+pide como argumentos marca y canales y los asigna a sus respectivas propiedades  
+
+### Métodos  
+
+- prender() pone encendido en true
+- apagar() pone encendido en false
+- verCanalSiguiente() suma 1 a canal y actualiza dicha propiedad
+- verCanalAnterior() resta 1 a canal y actualiza dicha propiedad
+- cambiarCanal(canal) actualiza la propiedad canal con el valor del parámetro canal
+- subirVolumen() suma 1 a volumen y actualiza dicha propiedad
+- bajarVolumen() resta 1 a volumen y actualiza dicha propiedad
+- toString() devuelve un string como el siguiente ejemplo:  
+
+Televisor Samsung  
+- Canales: 100  
+- Canal actual: 23  
+- Volumen actual: 34  
