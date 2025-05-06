@@ -108,3 +108,8 @@ Televisor Samsung
 - Canales: 100  
 - Canal actual: 23  
 - Volumen actual: 34  
+
+## Generar Password  
+- Generar una contraseña con letras mayusculas, minusculas, numeros y caracteres especiales  
+
+
