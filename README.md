@@ -112,4 +112,6 @@ Televisor Samsung
 ## Generar Password  
 - Generar una contraseña con letras mayusculas, minusculas, numeros y caracteres especiales  
 
+## Block de notas  
+
 
