@@ -113,5 +113,9 @@ Televisor Samsung
 - Generar una contraseña con letras mayusculas, minusculas, numeros y caracteres especiales  
 
 ## Block de notas  
+- Generar, modificar y eliminar notas en un block de notas  
 
+## Contador de palabras desde un archivo txt  
+
+##
 
