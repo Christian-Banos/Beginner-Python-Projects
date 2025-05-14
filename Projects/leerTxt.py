@@ -9,11 +9,16 @@ with open('leet.txt') as archivo_objeto:
 print('contador con espacios', contador)
 
 #contador solo de letras
-contador_letras = 0
 
-with open('leet.txt') as new_archivo:
-    letras = new_archivo.read().strip()
-    for letra in letras:
-        if letra.isalpha():
-            contador_letras += 1
-print('contador de letras', contador_letras)
+
+def contador(archivo):
+    contador_letras = 0
+    
+    with open(archivo) as new_archivo:
+        letras = new_archivo.read().strip()
+        for letra in letras:
+            if letra.isalpha():
+                contador_letras += 1
+    return contador_letras
+
+print('contador de letras', contador('leet.txt'))
