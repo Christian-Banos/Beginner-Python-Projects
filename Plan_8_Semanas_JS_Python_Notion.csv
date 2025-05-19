@@ -1,0 +1,57 @@
+Semana,Fecha,Día,Tarea
+Semana 1,2025-05-19,Lunes,"JS: Variables, funciones flecha, DOM básico"
+Semana 1,2025-05-20,Martes,"Python: Archivos .txt y .json, uso de with"
+Semana 1,2025-05-21,Miércoles,"JS: Eventos, manipulación de DOM"
+Semana 1,2025-05-22,Jueves,"Python: List comprehensions, lambda, zip"
+Semana 1,2025-05-23,Viernes,Proyecto: To-do list JS / Gestor de notas PY
+Semana 1,2025-05-24,Sábado,Libre o repaso
+Semana 1,2025-05-25,Domingo,"JS: Desafíos DOM (teclado, color hover)"
+Semana 2,2025-05-26,Lunes,"JS: map, filter, reduce, forEach"
+Semana 2,2025-05-27,Martes,Python: Módulos y manejo de errores
+Semana 2,2025-05-28,Miércoles,"JS: Funciones como parámetros, módulos"
+Semana 2,2025-05-29,Jueves,Python: Decoradores
+Semana 2,2025-05-30,Viernes,Proyecto: Filtro de productos JS / Calculadora modular PY
+Semana 2,2025-05-31,Sábado,Libre o repaso
+Semana 2,2025-06-01,Domingo,JS: Mini desafíos
+Semana 3,2025-06-02,Lunes,"JS: setTimeout, Promesas"
+Semana 3,2025-06-03,Martes,Python: Web scraping con requests y BeautifulSoup
+Semana 3,2025-06-04,Miércoles,"JS: fetch, async/await, API pública"
+Semana 3,2025-06-05,Jueves,Python: Guardar scraping en Excel
+Semana 3,2025-06-06,Viernes,Proyecto: Clima con JS / Scraper de precios PY
+Semana 3,2025-06-07,Sábado,Libre o repaso
+Semana 3,2025-06-08,Domingo,JS: Repaso Promesas
+Semana 4,2025-06-09,Lunes,"Python: Flask básico, servidor y rutas"
+Semana 4,2025-06-10,Martes,JS: fetch desde Flask
+Semana 4,2025-06-11,Miércoles,"Python: Rutas con JSON, lista de tareas"
+Semana 4,2025-06-12,Jueves,JS: Mostrar JSON en DOM
+Semana 4,2025-06-13,Viernes,Proyecto: API de tareas + Frontend
+Semana 4,2025-06-14,Sábado,Libre o repaso
+Semana 4,2025-06-15,Domingo,CSS: Estilos para la app
+Semana 5,2025-06-16,Lunes,"Python: Métodos PUT, DELETE en Flask"
+Semana 5,2025-06-17,Martes,JS: Validación de formularios
+Semana 5,2025-06-18,Miércoles,Python: Persistencia con JSON o SQLite
+Semana 5,2025-06-19,Jueves,JS: Animaciones visuales
+Semana 5,2025-06-20,Viernes,Proyecto: CRUD full stack (Flask + JS)
+Semana 5,2025-06-21,Sábado,Libre o repaso
+Semana 5,2025-06-22,Domingo,Desafíos opcionales
+Semana 6,2025-06-23,Lunes,JS: Renderizado dinámico y templates
+Semana 6,2025-06-24,Martes,Python: Modularización con Blueprints
+Semana 6,2025-06-25,Miércoles,JS: Animaciones con CSS y JS
+Semana 6,2025-06-26,Jueves,Python: Organización y .env
+Semana 6,2025-06-27,Viernes,Proyecto: Mini CRM / Inventario
+Semana 6,2025-06-28,Sábado,Libre o repaso
+Semana 6,2025-06-29,Domingo,Debugging y revisión
+Semana 7,2025-06-30,Lunes,JS: Estructura frontend/backend
+Semana 7,2025-07-01,Martes,Python: CORS y seguridad básica
+Semana 7,2025-07-02,Miércoles,JS: Estilizado con Tailwind o Bootstrap
+Semana 7,2025-07-03,Jueves,Python: Pruebas con Postman
+Semana 7,2025-07-04,Viernes,Proyecto: Finaliza app conectada a DB
+Semana 7,2025-07-05,Sábado,Libre o repaso
+Semana 7,2025-07-06,Domingo,Preparar README y capturas
+Semana 8,2025-07-07,Lunes,"Git: init, push, GitHub"
+Semana 8,2025-07-08,Martes,Deploy: Render.com o Vercel
+Semana 8,2025-07-09,Miércoles,Portafolio web: diseño y contenido
+Semana 8,2025-07-10,Jueves,Sube tus proyectos y enlaces
+Semana 8,2025-07-11,Viernes,Feedback: muestra tu trabajo
+Semana 8,2025-07-12,Sábado,Libre o repaso
+Semana 8,2025-07-13,Domingo,Plan futuro y mantenimiento
