@@ -1,3 +1,2 @@
-Hoy 14 de mayo de 2025 sigo aprendiendo python espero poder saber
-lo necesario a principios de julio y poder encontrar un buen trabajo
-como desarollador de pyhton
+Esta es una nueva linea echa con python
+Esta es una nueva linea con a

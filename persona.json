@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Maria",
+        "edad": 30,
+        "ciudad": "Barcelona"
+    },
+    {
+        "nombre": "Chris",
+        "edad": 35,
+        "ciudad": "Madrid"
+    },
+    {
+        "nombre": "Maria",
+        "edad": 30,
+        "ciudad": "Barcelona"
+    },
+    {
+        "nombre": "Chris",
+        "edad": 35,
+        "ciudad": "Madrid"
+    },
+    {
+        "nombre": "Maria",
+        "edad": 30,
+        "ciudad": "Barcelona"
+    },
+    {
+        "nombre": "Maria",
+        "edad": 30,
+        "ciudad": "Barcelona"
+    },
+    {
+        "nombre": "Chris",
+        "edad": 35,
+        "ciudad": "Madrid"
+    },
+    {
+        "nombre": "Laura",
+        "edad": 28,
+        "ciudad": "Valencia"
+    }
+]
