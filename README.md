@@ -121,5 +121,8 @@ Televisor Samsung
 
 ## Crear un archivo json  
 
+## Block de notas con archivo json  
+- Crear un block de notas que pueda guardar las notas en un archivo json  
 
+##   
 
